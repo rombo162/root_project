@@ -1,0 +1,33 @@
+.mb-2{
+    width: 500px;
+}
+h4{
+    font-family: 'Comic Sans','Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: midnightblue;
+    font-size: x-large;
+}
+.darkcolor{
+    background-color: cornflowerblue !important;
+}
+.lettercolor{
+    color: cornflowerblue 
+}
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: darkseagreen;
+    color: rgb(9, 7, 1);
+    background-image: url(https://cdn.hovia.com/app/uploads/light-blue-watercolour-ombre-ocean-wallpaper-muralPlain.jpg)}
+.tableaustyle{
+    display: block;
+    margin: auto;
+}
+iframe{
+    display: block;
+    margin: auto;
+}
+img{
+    display: block;
+    margin: auto;
+    border: blue;
+    padding: 10px;
+}
